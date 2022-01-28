@@ -20,7 +20,9 @@ The rural fares increased in late February and late March, but the fares dropped
 
 Based on the results three business recomendations will be:
 
-* 
+* There is a great opportunity to get more customers in the suburban area by increasing the number of drivers during a certain time.
+* The company could allocate more drivers in rural areas to increase offer.
+* The amount of drivers in the urban area is fine. If the company increases the number if drivers it cound generate that the drivers make less money per ride. As we can see, there is a relationship in the urban area between total rides and the average fare per driver, this means the more rides a drive has the less will be the average fare. 
 
 ![image](https://user-images.githubusercontent.com/95327338/151480573-4640b897-2cfb-4ffb-8c3c-b03a1ede0e01.png)
 
