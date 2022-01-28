@@ -26,7 +26,7 @@ Based on the results three business recomendations will be:
 
 ![image](https://user-images.githubusercontent.com/95327338/151480731-8807511d-484d-4c81-b31a-e0f27c36570f.png)
 
-![image](https://user-images.githubusercontent.com/95327338/151480761-c2c59464-16c3-4988-835a-7dc4624bca80.png)
+![image](https://user-images.githubusercontent.com/95327338/151480840-db1e5fb2-a067-4ef8-9251-6bd3ad32a1bc.png)
 
 
 
