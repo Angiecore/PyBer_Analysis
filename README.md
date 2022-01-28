@@ -24,9 +24,7 @@ Based on the results three business recomendations will be:
 * The company could allocate more drivers in rural areas to increase offer.
 * The amount of drivers in the urban area is fine. If the company increases the number if drivers it cound generate that the drivers make less money per ride. As we can see, there is a relationship in the urban area between total rides and the average fare per driver, this means the more rides a drive has the less will be the average fare. 
 
-![image](https://user-images.githubusercontent.com/95327338/151480573-4640b897-2cfb-4ffb-8c3c-b03a1ede0e01.png) ![image](https://user-images.githubusercontent.com/95327338/151480731-8807511d-484d-4c81-b31a-e0f27c36570f.png)
-
-![image](https://user-images.githubusercontent.com/95327338/151480840-db1e5fb2-a067-4ef8-9251-6bd3ad32a1bc.png)
+![image](https://user-images.githubusercontent.com/95327338/151480573-4640b897-2cfb-4ffb-8c3c-b03a1ede0e01.png) ![image](https://user-images.githubusercontent.com/95327338/151480731-8807511d-484d-4c81-b31a-e0f27c36570f.png) ![image](https://user-images.githubusercontent.com/95327338/151480840-db1e5fb2-a067-4ef8-9251-6bd3ad32a1bc.png)
 
 
 
